@@ -1,0 +1,723 @@
+div {
+    border: 1px black solid;
+    padding: 3px;
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+   
+}
+.colombia {
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+}
+
+.colombia div {
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.amarillo {
+    background-color: yellow;
+    width: 400px;
+    height: 250px;
+}
+
+.azul {
+    position: absolute;
+    top:  300px;
+    left: 8px;
+    background-color: blue;
+    width: 402px;
+    height: 60px; 
+}
+
+.rojo {
+    position: absolute;
+    top: 353px;
+    left: 8px;
+    background-color: red;
+    width: 402px;
+    height: 60px;
+}
+
+
+
+.mexico {
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+}
+
+.mexico div {
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.verde {
+    background-color: green;
+    display: inline-block;
+    width: 130px;
+    height: 250px;
+}
+
+div img {
+    position: absolute;
+    top: 520px;
+    left: 143px;
+}
+
+.blanco {
+    background-color: white;
+    display: inline-block;
+    width: 132px;
+    height: 250px;
+}
+
+.rojo2 {
+    background-color: red;
+    display: inline-block;
+    width: 130px;
+    height: 250px;
+}
+
+
+
+.españa{
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+}
+
+.españa div {
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.imagen2 {
+    position: absolute;
+    top: 530px;
+    left: 10px;
+}
+
+.rojo3 {
+    position: absolute;
+    top: 200x;
+    left: 8px;
+    background-color: red;
+    width: 402px;
+    height: 60px;
+}
+
+.amarillo2 {
+    background-color: yellow;
+    width: 400px;
+    height: 250px;
+}
+
+.rojo4 {
+    position: absolute;
+    top: 1170px;
+    left: 8px;
+    background-color: red;
+    width: 402px;
+    height: 60px;
+}
+
+
+
+.japon {
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+}
+
+.japon div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.blanco2{
+    background-color: white;
+    width: 400px;
+    height: 250px;
+}
+
+.circulo {
+    width: 150px;
+    height: 150px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: red;
+    position: absolute;
+    top: 1320px;
+    left: 131px;
+}
+
+
+
+.islandia {
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+}
+
+.islandia div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.rojo5{
+    background-color: red;
+    width: 400px;
+    height: 250px;
+}
+
+.blanco3{
+    position: absolute;
+    top:  1585px;
+    left: 8px;
+    background-color: white;
+    width: 110px;
+    height: 110px; 
+}
+
+.blanco4{
+    position: absolute;
+    top:  1730px;
+    left: 8px;
+    background-color: white;
+    width: 110px;
+    height: 110px; 
+}
+
+.blanco5{
+    position: absolute;
+    top:  1584px;
+    left: 150px;
+    background-color: white;
+    width: 260px;
+    height: 110px; 
+}
+
+.blanco6{
+    position: absolute;
+    top:  1730px;
+    left: 150px;
+    background-color: white;
+    width: 260px;
+    height: 110px; 
+}
+
+.azul2{
+    position: absolute;
+    top:  1585px;
+    left: 8px;
+    background-color: blue;
+    width: 95px;
+    height: 95px; 
+}
+
+.azul3{
+    position: absolute;
+    top:  1743px;
+    left: 8px;
+    background-color: blue;
+    width: 95px;
+    height: 95px; 
+}
+
+.azul4{
+    position: absolute;
+    top:  1585px;
+    left: 165px;
+    background-color: blue;
+    width: 245px;
+    height: 95px; 
+}
+
+.azul5{
+    position: absolute;
+    top:  1743px;
+    left: 165px;
+    background-color: blue;
+    width: 245px;
+    height: 95px; 
+}
+
+
+
+.chile{
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+}
+
+.chile.div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+#estrella {
+    margin: 50px 0;
+    position: absolute;
+    display: block;
+    color: white;
+    width: 0px;
+    height: 0px;
+
+    border-right: 50px solid transparent;
+    border-bottom: 20px solid white;
+    border-left: 50px solid transparent;
+    transform: rotate(35deg);
+
+    position: absolute;
+    top: 1887px;
+    left: 20px;
+}
+#estrella:before {
+    border-bottom: 60px solid white;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+
+    position: absolute;
+    height: 0;
+    width: 0;
+    top: -30px;
+    left: -27px;
+    display: block;
+    content: '';
+    transform: rotate(-35deg);
+}
+#estrella:after {
+    position: absolute;
+    display: block;
+    color: white;
+    top: 3px;
+    left: -65px;
+    width: 20px;
+    height: 10px;
+
+    border-right: 50px solid transparent;
+    border-bottom: 20px solid white;
+    border-left: 50px solid transparent;
+    transform: rotate(-70deg);
+    content: '';
+}
+
+.azul6{
+    background-color: blue;
+    width: 393px;
+    height: 242px;
+}
+
+.blanco7{
+    position: absolute;
+    top:  1891px;
+    left: 142px;
+    background-color: white;
+    width: 260px;
+    height: 118px; 
+}
+
+.rojo6{
+    position: absolute;
+    top:  2010px;
+    left: 8px;
+    background-color: red;
+    width: 394px;
+    height: 125px; 
+}
+
+
+
+.brasil {
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+}
+
+.brasil div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.verde2{
+    background-color: green;
+    width: 400px;
+    height: 250px;
+}
+
+.diamante {
+    width: 200px; 
+    height: 200px; 
+    background: yellow;
+    -webkit-transform: rotate(45deg) skew(15deg, 15deg);
+    -moz-transform: rotate(45deg) skew(15deg, 15deg);
+    -ms-transform: rotate(45deg) skew(15deg, 15deg);
+    -o-transform: rotate(45deg) skew(15deg, 15deg);
+    transform: rotate(-45deg) skew(15deg, 15deg);
+    position: absolute;
+    top: 2220px;
+    left: 110px;
+}
+
+.circulo2 {
+    width: 150px;
+    height: 150px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: blue;
+    position: absolute;
+    top: 2245px;
+    left: 131px;
+}
+
+
+
+.pakistan {
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+}
+
+.pakistan div {
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.blanco8 {
+    background-color: white;
+    width: 400px;
+    height: 250px;
+}
+
+.verde3 {
+    position: absolute;
+    top:  2502px;
+    left: 109px;
+    background-color: green;
+    width: 300px;
+    height: 250px; 
+}
+
+.luna {
+    width: 150px;
+    height: 150px;
+    -moz-border-radius: 70%;
+    -webkit-border-radius: 70%;
+    border-radius: 70%;
+    -moz-box-shadow: 30px 10px 0 white;
+    -webkit-box-shadow: 30px 10px 0 white;
+    box-shadow: 30px 10px 0 white;
+    transform: rotate(120deg);
+    position: absolute;
+    top: 2530px;
+    left: 200px;
+}
+
+
+
+.corea {
+    width: 400px;
+    height: 250px;
+    padding: 0px !important;
+}
+
+.corea div{
+    padding: 0px !important;
+    margin: 0px !important;
+    border: none;
+    box-sizing: border-box !important;
+}
+
+.blanco9{
+    background-color: white;
+    width: 400px;
+    height: 250px;
+}
+
+.circulo3 {
+    width: 150px;
+    height: 150px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: blue;
+    position: absolute;
+    top: 3060px;
+    left: 131px;
+}
+
+.semi-circulo {
+    width: 150px; 
+    height: 75px; 
+    border: 2px solid red; 
+    background: red;
+    -moz-border-radius: 100px 100px 0 0;
+    -webkit-border-radius: 100px 100px 0 0;
+    border-radius: 100px 100px 0 0;
+
+    position: absolute;
+    top: 3060px;
+    left: 131px;
+}
+
+.circulo4 {
+    width: 75px;
+    height: 75px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: red;
+
+    position: absolute;
+    top: 3097px;
+    left: 132px;
+}
+
+.circulo5 {
+    width: 75px;
+    height: 75px;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    border-radius: 50%;
+    background: blue;
+
+    position: absolute;
+    top: 3097px;
+    left: 206px;
+}
+
+.rectangulo1 {
+    width: 60px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(130deg);
+
+    position: absolute;
+    top: 3050px;
+    left: 80px;
+}
+
+.rectangulo2 {
+    width: 60px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(130deg);
+
+    position: absolute;
+    top: 3058px;
+    left: 90px;
+}
+
+.rectangulo3 {
+    width: 60px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(130deg);
+
+    position: absolute;
+    top: 3065px;
+    left: 100px;
+}
+
+.rectangulo4 {
+    width: 60px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(-130deg);
+
+    position: absolute;
+    top: 3200px;
+    left: 100px;
+}
+
+.rectangulo5 {
+    width: 25px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(-130deg);
+
+    position: absolute;
+    top: 3195px;
+    left: 97px;
+}
+
+.rectangulo6 {
+    width: 25px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(-130deg);
+
+    position: absolute;
+    top: 3220px;
+    left: 118px;
+}
+
+.rectangulo7 {
+    width: 60px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(-130deg);
+
+    position: absolute;
+    top: 3215px;
+    left: 80px;
+}
+
+.rectangulo8 {
+    width: 25px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(-130deg);
+
+    position: absolute;
+    top: 3050px;
+    left: 260px;
+}
+
+.rectangulo9 {
+    width: 25px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(-130deg);
+
+    position: absolute;
+    top: 3077px;
+    left: 283px;
+}
+.rectangulo10 {
+    width: 60px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(-130deg);
+
+    position: absolute;
+    top: 3055px;
+    left: 263px;
+}
+
+.rectangulo11 {
+    width: 25px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(-130deg);
+
+    position: absolute;
+    top: 3035px;
+    left: 280px;
+}
+
+.rectangulo12 {
+    width: 25px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(-130deg);
+
+    position: absolute;
+    top: 3059px;
+    left: 300px;
+}
+
+.rectangulo13 {
+    width: 25px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(130deg);
+
+    position: absolute;
+    top: 3190px;
+    left: 282px;
+}
+
+.rectangulo14 {
+    width: 25px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(130deg);
+
+    position: absolute;
+    top: 3220px;
+    left: 255px;
+}
+
+.rectangulo15 {
+    width: 25px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(130deg);
+
+    position: absolute;
+    top: 3198px;
+    left: 292px;
+}
+
+.rectangulo16 {
+    width: 25px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(130deg);
+
+    position: absolute;
+    top: 3235px;
+    left: 275px;
+}
+
+.rectangulo17 {
+    width: 25px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(130deg);
+
+    position: absolute;
+    top: 3228px;
+    left: 265px;
+}
+
+.rectangulo18 {
+    width: 25px; 
+    height: 7px; 
+    border: 3px solid black;
+    background: black;
+    transform: rotate(130deg);
+
+    position: absolute;
+    top: 3206px;
+    left: 303px;
+}
