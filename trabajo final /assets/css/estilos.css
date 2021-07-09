@@ -1,0 +1,117 @@
+body {  
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+   
+    height: auto;
+    width: auto;
+}
+
+.titulo{
+    font-family: Helvetica, sans-serif;
+    color: white;
+    font-size: 5vw;
+    text-align: center;
+    padding: 50px;
+}
+.titulo_2{
+    font-family: Helvetica, sans-serif;
+    color: white;
+    font-size: 5vw;
+    text-align: center;
+    padding: 0px;
+    padding-top: 50px;
+}
+.titulo_3{
+    font-family: Helvetica, sans-serif;
+    color: white;
+    font-size: 5vw; /*solo para tiulo*/
+    text-align: center;
+    padding: 0px; 
+    padding: 50px;
+}
+
+
+.resena{
+    height: auto;
+    text-align: center;
+}
+
+p{
+    font-family: Arial, sans-serif;
+    color: white;
+    font-size: 18px;
+    text-align: justify;
+    padding: 0px;
+    margin: 5%;
+}
+
+.gallery-container{ /*faleria de fotos*/
+    width: 100%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3,300px);
+}
+
+.gallery-container .gallery-card {
+    overflow: hidden;
+}
+
+.gallery-container .gallery-card a{
+    width: 100%;
+    height: 100%;
+}
+
+.gallery-container .gallery-card a > img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: 0.5s;
+}
+
+.gallery-container .gallery-card a > img:hover{ /*movimiento*/
+    transform: scale(1.5) rotate(30deg);
+}
+
+.envoltorio_video {
+    /*border: 1px solid yellow;
+    width: 100%;
+    height: 515px; 
+    margin: 100px auto 0;*/
+
+    width: 100%; /*ancho*/
+    max-width: 760px;
+    height: 100%; /*alto*/
+    margin: 100px auto 0;
+}
+
+.video {
+    /*width: 100%;
+    height: 100%;*/
+
+    width: 100%;
+    height: 515px;
+    margin-top: -80px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
